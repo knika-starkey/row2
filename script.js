@@ -12,7 +12,7 @@ if (!isNaN(n)) {
       (sum * 0.065) / 1000
     } kilogram`
   );
-} else alert("ERROR");
+} else alert("ERROR! Please try again");
 
 // let a, b;
 // a = 1;
